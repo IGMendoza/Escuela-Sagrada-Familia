@@ -1,0 +1,46 @@
+
+@font-face {
+	font-family: AGaramondPro;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../fonts/AGaramondPro-Regular.otf");
+}
+
+@font-face {
+	font-family: AGaramondPro;
+	font-weight: bold;
+	src: url("../fonts/AGaramondPro-Bold.otf");
+}
+
+@font-face {
+	font-family: AGaramondPro;
+	font-style: italic;
+	src: url("../fonts/AGaramondPro-Italic.otf");
+}
+
+@font-face {
+	font-family: AGaramondPro;
+	font-style: italic;
+	font-weight: bold;
+	src: url("../fonts/AGaramondPro-BoldItalic.otf");
+}
+
+@font-face {
+	font-family: AGaramondPro;
+	font-weight: 600;
+	src: url("../fonts/AGaramondPro-Semibold.otf");
+}
+
+@font-face {
+	font-family: AGaramondPro;
+	font-style: italic;
+	font-weight: 600;
+	src: url("../fonts/AGaramondPro-SemiboldItalic.otf");
+}
+
+@font-face {
+	font-family: Arctic;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../fonts/Arctic.otf");
+}
